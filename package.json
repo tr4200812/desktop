@@ -55,7 +55,7 @@
     "@babel/core": "^7.25.2",
     "@babel/plugin-transform-modules-commonjs": "^7.24.8",
     "@primer/octicons": "^19.0.0",
-    "@types/lodash": "^4.14.178",
+    "@types/lodash": "^4.17.13",
     "@types/marked": "^4.0.1",
     "@types/plist": "^3.0.2",
     "@types/react-color": "^3.0.4",
